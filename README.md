@@ -41,9 +41,7 @@ Welcome to my GitHub profile! I'm a passionate developer constantly striving to 
 - [Twitter](https://twitter.com/nicholeC98741)
 - [Email](mailto:your-nicholechristie555@gmail.com)
 
-## GitHub Stats
 
-![Nichebiche's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nichebiche&show_icons=true&theme=radical)
 
 Thanks for visiting my profile! Feel free to explore my repositories and get in touch if you'd like to collaborate on a project.
 ![Open Sourcerer](https://github.com/sagelga/github-achievement/blob/main/img/open-sourcerer/open-sourcerer-default.png)
